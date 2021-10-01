@@ -16,3 +16,17 @@ const person = {
   age:35,
   city: "Moscow"
 };
+person.age=36;
+console.log(person.age);
+
+//console.log(person.firstName);
+
+//for (let key in person) {
+//  console.log(key, person[key]);
+//}
+
+const nums = [1, 2, 3, 4];
+//console.log(nums[0]);
+// nums.push(5)
+ console.log(nums);
+ console.log(nums.length);
